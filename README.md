@@ -1,0 +1,2 @@
+# fotos
+pagina de fotos
